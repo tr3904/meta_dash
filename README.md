@@ -9,7 +9,7 @@ d) Time-based engagement trends (weekly & hourly)
 e) Ad format performance comparison
 f) Actionable business recommendations
 ## 3) Dashboard Insights
-KPI Metrics
+KPI Metrics:
 a) Impressions: 216K
 b) Clicks: 25.4K
 c) Engagements: 29K
